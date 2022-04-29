@@ -1,6 +1,6 @@
 # Basic-data-mining
 
-Simple datamining test using C++ functions for opening text files and for string processing. <br />
+Simple data mining test using C++ functions for opening text files and for string processing. <br />
 An example file is included in the root directory of this repo. Extract it in the same folder as the source file before running.
 
 GDB13_Subset-ABCDEFGH.smi
